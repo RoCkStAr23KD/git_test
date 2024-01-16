@@ -1,0 +1,2 @@
+This is testing of git and learn on Odian project website.
+this is for testing purpose to learn git and github for first time.
